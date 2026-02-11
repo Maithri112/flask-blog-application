@@ -30,7 +30,15 @@ The project demonstrates backend development, database management, authenticatio
 ## 🚀 How to Run Locally
 1. Clone the repository
 2. Install required dependencies
-3. Run the main Python file
+3. Run the Application
+```bash
+python app.py
+```
+
+Visit:
+```
+http://127.0.0.1:5000
+```
 
 ## 🔐 Security & Deployment
 - Sensitive data managed using environment variables
